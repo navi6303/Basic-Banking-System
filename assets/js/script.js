@@ -23,4 +23,3 @@ function sendMoney(){
       element.insertBefore(createPTag, element.firstChild);
    }
 }
-
