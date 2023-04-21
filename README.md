@@ -10,6 +10,12 @@ GRIP April 2023 Web & Mobile Development Task #1
 5. No Login Page. No User Creation. Only transfer of money between multiple users. 
 6. Host the website at 000webhost, github.io, Heroku app, or any other free hosting provider. Check-in code in GitLab.
 
+## Technologies Used
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. PHP
+
 ## Hosting
 
 The project is hosted at [click here](https://clonal-procedures.000webhostapp.com/index.html)
