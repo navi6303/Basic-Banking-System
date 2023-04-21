@@ -22,5 +22,7 @@ The project is hosted at [click here](https://clonal-procedures.000webhostapp.co
 
 ## Screenshots
 ![Screenshot 2023-04-21 064843](https://user-images.githubusercontent.com/94692993/233518523-647fb9f9-adea-48b2-a3dc-d0f802039e41.png)
-![Screenshot 2023-04-21 064937](https://user-images.githubusercontent.com/94692993/233518513-41ea6d45-46a7-44c2-a578-3fff5fd160e3.png)
-![Screenshot 2023-04-21 065007](https://user-images.githubusercontent.com/94692993/233518520-ad33e8d2-eca7-4451-b5a4-bff8fc53d31e.png)
+![Screenshot 2023-04-21 174547](https://user-images.githubusercontent.com/94692993/233633381-fea9983f-c64a-4a0f-a3e1-1a0ada93e944.png)
+![Screenshot 2023-04-21 174620](https://user-images.githubusercontent.com/94692993/233633396-b2c13446-3d20-454a-ad1c-a25b7b5266f3.png)
+![Screenshot 2023-04-21 174706](https://user-images.githubusercontent.com/94692993/233633404-a0947f11-21df-464e-9017-2d4cf7b3d9f9.png)
+![Screenshot 2023-04-21 174725](https://user-images.githubusercontent.com/94692993/233633416-30995461-f72f-486e-8037-4798fa91efc0.png)
